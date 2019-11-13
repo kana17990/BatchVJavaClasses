@@ -32,7 +32,7 @@ System.out.println("---------------------------");
 			car2.wheels=4;
 			car2.windows=6;
 			car2.speed=300;
-			
+			car2.make="Toyota";
 			car2.drive();
 			car2.start();
 			car2.accelerate();
@@ -43,6 +43,8 @@ System.out.println("---------------------------");
 			//I drive BMW 2019
 			System.out.println("I drive "+car2.make+" "+car2.year);
 		
+			
+			
 			
 			
 			
