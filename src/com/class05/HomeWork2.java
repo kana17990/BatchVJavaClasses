@@ -9,7 +9,7 @@ public class HomeWork2 {
 		        int finalexam;
 		        int avarage;
 		        char grade1;
-		        scanner scan=new Scanner(System.in);
+		        Scanner scan = new Scanner(System.in);
 		        System.out.println("What is   your guiz score?");
 		        guiz = scan.nextInt();
 		        System.out.println("What is your midterm score");
@@ -43,3 +43,4 @@ public class HomeWork2 {
 	
 	}
 	
+

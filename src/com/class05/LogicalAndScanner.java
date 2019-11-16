@@ -9,7 +9,8 @@ public class LogicalAndScanner {
 		System.out.println("how old are you");
 		int age=ages.nextInt();
 		if(age>=1 && age<=3) { System.out.println("you are baby");
-		}else if (age>3 && <=5) {System.out.println();
+		}else if (age>3 && <=5) 
+		{System.out.println();
 		}
 		
 		

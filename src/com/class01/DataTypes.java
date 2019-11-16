@@ -11,10 +11,10 @@ public class DataTypes {
 		
 		short s=6566;
 		short s1=-32768;
-		short s3=32656;  compiler will give an error
+		short s3=32656;  //compiler will give an error
 		
 		int  i=767787;
-		int  i2=767786;    commplier will give an error
+		int  i2=767786;    //commplier will give an error
 	
 		long l=5765656;
 		long l1=7676886757557L;
