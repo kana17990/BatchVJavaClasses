@@ -47,14 +47,11 @@ public class MySonMath {
 		int result = num1 + num2;
 		return result;
 		
-	//private can be seen/accessed 
-	//only within class
-		private void add5() {
-			int result1 = 6;
+	
 		}
 	}
 
-}
+
 	
 	
 	

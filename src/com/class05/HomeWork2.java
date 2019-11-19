@@ -9,13 +9,13 @@ public class HomeWork2 {
 		        int finalexam;
 		        int avarage;
 		        char grade1;
-		        Scanner scan = new Scanner(System.in);
+		        Scanner scan1 = new Scanner(System.in);
 		        System.out.println("What is   your guiz score?");
-		        guiz = scan.nextInt();
+		        guiz = scan1.nextInt();
 		        System.out.println("What is your midterm score");
-		        midterm = scan.nextInt();
+		        midterm = scan1.nextInt();
 		        System.out.println("What is your finalexam score");
-		        finalexam = scan.nextInt();
+		        finalexam = scan1.nextInt();
 		        avarage = (guiz + midterm + finalexam) / 3;
 		        if (avarage >= 90) {
 		            System.out.println(grade1 = 'A');
@@ -39,6 +39,7 @@ public class HomeWork2 {
 		            classMode = "Inclass";
 		        }
 		    }
+	
 	
 	
 	}

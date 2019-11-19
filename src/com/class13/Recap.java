@@ -16,28 +16,15 @@ public class Recap {
         System.out.println(city);
         String city2=city.toUpperCase();
         System.out.println(city2);
-    
-        
-        
-        
-        
-        
-        
+     
     }
 
-		
-		
-		
-		
-		
-		
-		
 	//6.Write a Java Program to find whether a 
 	//String is palindrome or not?
 
 	String a, b = "";
 	Scanner s = new Scanner(System.in);
-	System.out.print("Is it snowing outside:");
+	System.out.ptint("Is it snowing outside:");
 	a = s.nextLine();
 	int n = a.length();
 	for(int j= n - 1; j >= 0; j--)
@@ -56,9 +43,9 @@ public class Recap {
 
 
 			
+	}		
 			
-			
-			
+	}		
 			
 			
 			
@@ -79,6 +66,6 @@ public class Recap {
 		
 		
 
-	}
+	
 
 
