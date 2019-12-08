@@ -29,8 +29,12 @@ public class ArrayListDemo {
 		numArrList.add(200);
 		numArrList.add(300);
 		
+		//update the value
+		numArrList.set(0, 1000);
+		
 		//retrieving values
 		System.out.println(numArrList.get(2));
+		//int num =control or counter -->controls # of iterations for the loop
 		for (int num=0; num<numArrList.size();num++) {
 			System.out.println(numArrList);
 		}
